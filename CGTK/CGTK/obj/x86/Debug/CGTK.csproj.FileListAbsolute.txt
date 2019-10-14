@@ -1,0 +1,2 @@
+/home/alebar/Documentos/ad-master/CGTK/CGTK/obj/x86/Debug/CGTK.csprojAssemblyReference.cache
+/home/alebar/Documentos/ad-master/CGTK/CGTK/obj/x86/Debug/CGTK.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGTK", "CGTK\CGTK.csproj", "{382F9A74-7601-478D-A0D6-87DB9EA69295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{382F9A74-7601-478D-A0D6-87DB9EA69295}.Debug|x86.ActiveCfg = Debug|x86
+		{382F9A74-7601-478D-A0D6-87DB9EA69295}.Debug|x86.Build.0 = Debug|x86
+		{382F9A74-7601-478D-A0D6-87DB9EA69295}.Release|x86.ActiveCfg = Release|x86
+		{382F9A74-7601-478D-A0D6-87DB9EA69295}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
